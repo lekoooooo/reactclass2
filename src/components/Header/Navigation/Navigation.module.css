@@ -1,0 +1,9 @@
+.navContainer ul {
+  display: flex;
+  gap: 47px;
+  list-style: none;
+}
+.navContainer li a {
+  text-decoration: none;
+  color: #15143960;
+}

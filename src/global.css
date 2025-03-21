@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "DMsans";
+  src: url("./assets/DMSans-Regular.ttf");
+}
+body {
+  font-family: "DMsans", Courier, monospace;
+}

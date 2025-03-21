@@ -1,0 +1,24 @@
+.btnContainer {
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  width: 714px;
+  margin-top: 70px;
+  font-size: 20px;
+}
+.logIn {
+  width: 200px;
+  height: 41px;
+  background-color: #007aff;
+  color: white;
+  border-radius: 39px;
+  border: none;
+}
+.signUp {
+  width: 200px;
+  height: 41px;
+  background-color: #00c7be;
+  color: white;
+  border-radius: 39px;
+  border: none;
+}

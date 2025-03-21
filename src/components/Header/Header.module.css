@@ -1,0 +1,12 @@
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.logo {
+  color: #1e0e62;
+  font-weight: bold;
+}

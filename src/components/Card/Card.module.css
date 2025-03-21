@@ -1,0 +1,40 @@
+.cardContainer {
+  position: relative;
+  display: flex;
+  margin: 0 auto;
+  max-width: 1028px;
+  margin-top: 112px;
+  font-size: 18px;
+  color: #15143960;
+  gap: 80px;
+  justify-content: space-around;
+}
+.firstBottomP {
+  width: 200px;
+  text-align: center;
+
+  justify-content: center;
+}
+.secondBottomP {
+  width: 228px;
+  text-align: center;
+}
+
+.thirdBottomP {
+  width: 228px;
+  text-align: center;
+}
+.line {
+  position: absolute;
+  top: 15px;
+  left: 30%;
+  border-right: 2px solid #ebeaed;
+  height: 109px;
+}
+.lineSecond {
+  position: absolute;
+  top: 15px;
+  left: 67%;
+  border-right: 2px solid #ebeaed;
+  height: 109px;
+}
